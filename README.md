@@ -24,9 +24,7 @@ Each data structure is implemented with clear explanations and examples to help 
 ## Getting Started
 To get started with practicing data structures in JavaScript, follow these steps:
 
-1. Clone the repository to your local machine:
-https://github.com/fazil-tv/DATA-STRUCTURE.githttps://github.com/fazil-tv/DATA-STRUCTURE.git
-
+1. Clone the repository to your local machine:https://github.com/fazil-tv/DATA-STRUCTURE.githttps://github.com/fazil-tv/DATA-STRUCTURE.git
 2. Once cloned, navigate to the directory and start exploring the implementations.
 
 3. Feel free to contribute by adding more data structures or improving existing ones!
