@@ -1,5 +1,6 @@
 # JavaScript Data Structures Practice
 
+
 Welcome to the JavaScript Data Structures Practice repository! This repository is dedicated to practicing various data structures implemented in JavaScript.
 
 ## Overview
